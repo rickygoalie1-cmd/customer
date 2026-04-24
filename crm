@@ -1,0 +1,13 @@
+Month,ActiveUsers,SupportTickets,SatisfactionScore,ResponseTime,RetentionRate
+January,1000,120,85,4.5,92
+February,1100,110,86,4.2,93
+March,1250,130,84,4.6,90
+April,1400,105,88,3.8,94
+May,1600,115,87,3.9,93
+June,1800,140,85,4.5,91
+July,1950,150,83,5.0,89
+August,2100,125,88,4.0,94
+September,2300,110,90,3.5,95
+October,2500,100,92,3.0,96
+November,2800,105,91,3.2,95
+December,3100,95,94,2.5,97
