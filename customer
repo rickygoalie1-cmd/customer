@@ -1,0 +1,7 @@
+Month,NewCustomers,ChurnRate,SupportTickets,SatisfactionScore,LifetimeValue
+January,150,2.5,45,88,1200
+February,180,2.1,38,91,1250
+March,165,2.8,52,87,1180
+April,210,1.9,30,94,1300
+May,195,2.2,42,90,1280
+June,230,1.7,28,95,1350
